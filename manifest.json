@@ -12,69 +12,69 @@
     "id": "com.proyectopwa",
     "icons": [
         {
-            "src": "/assets/img/favicon144.png",
+            "src": "./assets/img/favicon144.png",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "any"
         },          
         {
-            "src": "assets/img/favicon-16x16.ico",
+            "src": "./assets/img/favicon-16x16.ico",
             "sizes": "16x16",
             "type": "image/x-icon",
             "form-factor": "wide"   
         },
         {
-            "src": "assets/img/favicon-32x32.ico",
+            "src": "./assets/img/favicon-32x32.ico",
             "sizes": "32x32",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-64x64.ico",
+            "src": "./assets/img/favicon-64x64.ico",
             "sizes": "64x64",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-96x96.ico",
+            "src": "./assets/img/favicon-96x96.ico",
             "sizes": "96x96",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-128x128.ico",
+            "src": "./assets/img/favicon-128x128.ico",
             "sizes": "128x128",
             "type": "image/x-icon",
             "form-factor": "maskable",
             "purpose": "any"
         },
         {
-            "src": "assets/img/favicon-192x192.ico",
+            "src": "./assets/img/favicon-192x192.ico",
             "sizes": "192x192",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-256x256.ico",
+            "src": "./assets/img/favicon-256x256.ico",
             "sizes": "256x256",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-384x384.ico",
+            "src": "./assets/img/favicon-384x384.ico",
             "sizes": "384x384",
             "type": "image/x-icon",
             "form-factor": "wide"
         },
         {
-            "src": "assets/img/favicon-512x512.ico",
+            "src": "./assets/img/favicon-512x512.ico",
             "sizes": "512x512",
             "type": "image/x-icon",
             "form-factor": "wide"
             
         },
         {
-            "src": "assets/img/favicon-1024x1024.ico",
+            "src": "./assets/img/favicon-1024x1024.ico",
             "sizes": "1024x1024",
             "type": "image/x-icon",
             "form-factor": "narrow",
