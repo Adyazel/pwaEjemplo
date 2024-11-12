@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Public Sans, sans-serif;
+}
+.btn-about {
+  background-color: #176dc4;
+  color: #ffffff;
+  border: 1px solid #333;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+.btn-about:hover {
+  background-color: #0e4073;
+  color: #ffffff;
+}
+.btn-about > a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.img-portrait {
+  width: auto;
+  height: 500px;
+  margin-left: 50%;
+}
+.titulo1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+}
+.wrapper1 {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.about-text {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+.lead{
+    font-size: 1.52rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+#about {
+  background-color: #136fa5;
+  padding: 50px 50px 0px 50px;
+}
+.img-centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-items: center;
+  align-content: center;
+}
